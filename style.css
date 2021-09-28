@@ -1,0 +1,195 @@
+.Header-itm{
+    width: 100%;
+    margin-top: 25px;
+
+}
+.list{
+    font-size: 20px;
+    list-style: none;
+    /* display: flex; */
+}
+.list{
+    display: flex;    
+}
+.list li {
+ margin-right: 25px;
+}
+.list li a {
+    text-decoration: none;
+    color: black;
+}
+.container {
+    width:1245px;
+    margin: 0 auto;
+}
+.img{
+    width: 80px;
+}
+
+.itm {
+    /* width:250px; */
+    display: flex;
+    justify-content: space-between;
+}
+.Header-content{
+    width: 100%;
+    margin-bottom: 45px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.content-header {
+    width: 350px;
+}
+.tex{
+    line-height: 1.5em;
+    margin-bottom: 53px;
+}
+.malibu{
+    border: solid 3px;
+    border-radius: 8px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+
+
+
+.container1 {
+    width: 1245px;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.damas {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tex-ikki {
+    width: 27%;
+    border: solid 1px black;
+    margin-bottom: 35px;
+    padding: 33px 17px;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.title {
+    text-align: center;
+}
+
+.jentra {
+    margin-bottom: 45px;
+}
+.nexiya1{
+    width: 100%;
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+}
+.nexiya3{
+    width: 305px;
+    
+
+}
+.matiz{
+    font-size: 35px;
+}
+.kaptiva{
+    font-size: 20px;
+}
+.tico{
+    font-size: 25px;
+    border: solid;
+    border-radius: 10px;
+    border-color: blue;
+}
+.tex10{
+    width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 0 auto;
+}
+.tex11{
+    width: 400px;
+}
+.merss{
+    font-size: 45px;
+    margin-left: 100px;
+}.labo{
+    margin-left: 400px;
+}
+.mers2{
+    margin-left: 100px;
+}
+.zaparoj{
+    margin-left: 100px;
+    font-size: 30px;
+    border: solid;
+    border-radius: 5px ;
+    background-color:blue;
+    color:white;
+}
+.Bmwx6{
+    width: 70%;
+    height: 300px;
+    background-color: rgb(108, 108, 202);
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.tex01{
+    width: 100%;
+    text-align: center;
+    /* margin: 0 auto; */
+    font-size: 30px;
+    padding-top: 64px;
+    color:white;
+
+}
+.tex02{
+    width: 90%;
+    display: flex;
+    display: flex;
+}
+.tex03{
+    width: 100%;
+    
+}
+.tex03{
+    font-size: 20px;
+    margin-left: 30px;
+    color:white;
+}
+.tex04{
+    width: 120%;
+}
+.tex05{
+    margin-left: 70px;
+}
+.tex04{
+    color:white;
+}
+.tex08{
+    width: 100%;
+    display: flex;
+    /* margin-left: 200px; */
+    /* margin: 0 auto; */
+}
+.tex08{
+   margin: 0;
+   margin-left: 200px;
+}
